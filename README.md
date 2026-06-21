@@ -1,0 +1,36 @@
+# life-reset-manager
+
+The **runtime** of the *life-reset* personal manager — a strict, self-improving personal
+operating manager (weekly + daily rhythm) that runs from its own durable memory and is
+portable across chats and providers.
+
+## What lives here vs. what doesn't
+
+- **Here (the product / runtime):** the manager's `sealed-core` (its non-amendable safety
+  layer), the week-files, and the manager's own memory.
+- **Not here (governance):** *what* to build — the charter, the outcome tree, the bets, and
+  the session history — lives in the **Direction-OS** repo (`my_global_workflow`,
+  `live/life-reset/`). That repo decides and tracks; this repo is the thing that runs.
+
+Changes here are made via the Direction-OS's executor / work CALLs; the direction tracks them
+by commit evidence. This repo does not need to know the OS internals — it just manages life.
+
+## The one hard rule: stay light
+
+**Markdown-only until a real run earns more.** No heavy runtime infrastructure
+(no DATA_MODEL / MEMORY / RETRIEVAL build) before v1 is proven by **one real run**.
+Building infrastructure before using it is exactly what derailed this direction once
+(2026-06-20). The repo is an address, not a licence to over-engineer — `appetite` + `kill_by`
+hold the line, not the location.
+
+## v1 (in progress — bet `g-lr-run`)
+
+Planned files, created by the build sessions (not pre-stubbed):
+- `sealed-core.md` — inviolable override path · protected class (recovery / safety / floors) ·
+  the 4 floor-tripwires (sleep / not-smoking / no-binge / not-vanishing) · manual rollback ·
+  "rules change only via the gate" · non-punishing-return invariant · clinical-risk routing
+  (a pre-named clinical-risk sign → route OUT to professional support, never intensify
+  discipline).
+- a week-file — protected tier-1 → routine → wishes-through-filter → explicit cuts.
+
+Status: v1 being authored. Full plan + governance: `my_global_workflow/live/life-reset/NOW.md`.
