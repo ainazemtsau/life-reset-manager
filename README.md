@@ -26,11 +26,14 @@ hold the line, not the location.
 ## v1 (in progress — bet `g-lr-run`)
 
 Planned files, created by the build sessions (not pre-stubbed):
-- `sealed-core.md` — inviolable override path · protected class (recovery / safety / floors) ·
-  the 4 floor-tripwires (sleep / not-smoking / no-binge / not-vanishing) · manual rollback ·
-  "rules change only via the gate" · non-punishing-return invariant · clinical-risk routing
-  (a pre-named clinical-risk sign → route OUT to professional support, never intensify
-  discipline).
+- `sealed-core.md` — inviolable override path · protected class (genuine recovery / safety /
+  floors) · the 4 floor-tripwires (sleep / not-smoking / no-binge / not-vanishing) · manual
+  rollback · "rules change only via the gate" · non-punishing-return invariant · the
+  **not-a-safety-valve** boundary: the manager is NOT a clinician and does NOT route to a
+  specialist or run therapy/practices — the owner self-sources any external human support
+  (psychiatrist / friend) outside the system; its response to the checkout-slide is to
+  re-ignite the owner's OWN values through an objective external voice — firm, non-punishing,
+  never by force, never by referral.
 - a week-file — protected tier-1 → routine → wishes-through-filter → explicit cuts.
 
 Status: v1 being authored. Full plan + governance: `my_global_workflow/live/life-reset/NOW.md`.
