@@ -34,6 +34,13 @@ Planned files, created by the build sessions (not pre-stubbed):
   (psychiatrist / friend) outside the system; its response to the checkout-slide is to
   re-ignite the owner's OWN values through an objective external voice — firm, non-punishing,
   never by force, never by referral.
-- a week-file — protected tier-1 → routine → wishes-through-filter → explicit cuts.
+- `operating-template.md` — the week + day skeleton + the rules: week = protected tier-1 →
+  routine → wishes-through-filter → explicit cuts; day = gate (R11) → plan → free log → review;
+  an accumulator so nothing is lost; week-review → one decision (incl. `{research}` = a separate
+  deep-research chat that rewrites the method). The working METHOD (time-blocks, pomodoro, …) is
+  a swappable hypothesis, not a law — only the rhythm is fixed. Durable state is optimized for
+  the manager (its working memory + cross-provider portability), not for the owner to read — the
+  owner interacts by conversation and gets rendered views on demand.
 
-Status: v1 being authored. Full plan + governance: `my_global_workflow/live/life-reset/NOW.md`.
+Status: v1 being authored (sealed-core + operating-template done; next is one real run).
+Full plan + governance: `my_global_workflow/live/life-reset/NOW.md`.
