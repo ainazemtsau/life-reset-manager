@@ -23,24 +23,27 @@ Building infrastructure before using it is exactly what derailed this direction 
 (2026-06-20). The repo is an address, not a licence to over-engineer — `appetite` + `kill_by`
 hold the line, not the location.
 
-## v1 (in progress — bet `g-lr-run`)
+## v1 — the files
 
-Planned files, created by the build sessions (not pre-stubbed):
-- `sealed-core.md` — inviolable override path · protected class (genuine recovery / safety /
-  floors) · the 4 floor-tripwires (sleep / not-smoking / no-binge / not-vanishing) · manual
-  rollback · "rules change only via the gate" · non-punishing-return invariant · the
-  **not-a-safety-valve** boundary: the manager is NOT a clinician and does NOT route to a
-  specialist or run therapy/practices — the owner self-sources any external human support
-  (psychiatrist / friend) outside the system; its response to the checkout-slide is to
-  re-ignite the owner's OWN values through an objective external voice — firm, non-punishing,
-  never by force, never by referral.
-- `operating-template.md` — the week + day skeleton + the rules: week = protected tier-1 →
-  routine → wishes-through-filter → explicit cuts; day = gate (R11) → plan → free log → review;
-  an accumulator so nothing is lost; week-review → one decision (incl. `{research}` = a separate
-  deep-research chat that rewrites the method). The working METHOD (time-blocks, pomodoro, …) is
-  a swappable hypothesis, not a law — only the rhythm is fixed. Durable state is optimized for
-  the manager (its working memory + cross-provider portability), not for the owner to read — the
-  owner interacts by conversation and gets rendered views on demand.
+A small, complete set of structured markdown. The AI (ChatGPT / Claude / Claude Code / Codex)
+is the interpreter; there is no code. The owner runs v1 himself and returns with problems.
 
-Status: v1 being authored (sealed-core + operating-template done; next is one real run).
-Full plan + governance: `my_global_workflow/live/life-reset/NOW.md`.
+- `manager.md` — the operating instructions: who the manager is · how you interact (log freely;
+  state stored for the manager; rendered to you on demand; portable across chats/providers) ·
+  the recipe model (day & week are composed from `recipe.md`; components are clean seams that
+  can later be backed by a skill/tool/script) · the procedures (a deep-research that PICKS the
+  starting method — not a default · week planning · day planning + R11 gate · day log/support
+  with slip→rebalance · day & week review → one decision + a deep-research that REWRITES the
+  recipe) · the accumulator ("nothing is lost") · honesty/BITE · what is inviolable.
+- `recipe.md` — the current, editable configuration of HOW we work: the method (set by the
+  first-run deep-research, not defaulted) · the day components · the week sections · active
+  techniques. The manager rewrites this (with the owner's "ok") via review/deep-research.
+- `state.md` — the manager's durable working memory: running-state · the accumulator
+  (problems / misses / ideas) · week & day records. For the manager; rendered to the owner.
+- `sealed-core.md` — the non-amendable safety floor: inviolable override (incl. R11 refusal) ·
+  protected class (genuine recovery / safety / floors / routine rest) · the 4 floor-tripwires ·
+  recovery-vs-slide · the objective voice (anchored to the owner's own plan; never
+  scare/cheer/force/refer) · non-punishing return · the **not-a-safety-valve** boundary (no
+  clinical routing) · manual rollback · "rules change only via the gate" · a 2-assertion smoke check.
+
+Light governance notes: `my_global_workflow/live/life-reset/NOW.md`.
